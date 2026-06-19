@@ -1,5 +1,5 @@
-# SinglePage.CV
-This is the repository for a project what is built from myself and assigned by Roadmap.sh
+# Basic HTML Website
+This is the repository for a project what is built from myself and assigned by Roadmap.sh.
 
 I will update and improve this project occasionally, so you can see my current progress. However, I will not override the project rules.
 
@@ -11,11 +11,10 @@ I will update and improve this project occasionally, so you can see my current p
 - **GitHub Pages** – For maintaing live demo on web
 
 ## 🌐 Live Demo
-<a href="https://yusufekerr.github.io/roadmap.sh_projects/singlepage_cv/" target="_blank">
+<a href="https://yusufekerr.github.io/roadmap.sh_projects/basic_HTMLwebsite/" target="_blank">
 Live Preview on GitHub Pages
 </a>
 
 You can visit the project page from freeCodeCamp.
-<a href="https://roadmap.sh/projects/single-page-cv" 
-    target="_blank">https://roadmap.sh/projects/single-page-cv</a>
-
+<a href="https://roadmap.sh/projects/basic-html-website" 
+    target="_blank">https://roadmap.sh/projects/basic-html-website</a>
